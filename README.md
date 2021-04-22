@@ -14,5 +14,7 @@ The Strong Hacker, is a tool made to take easy the installation of hacking tools
 -
 <h2>Get started </h2>
 
-`$ pip install -r requirements.txt`
-`$ python stronghacker.py`
+```shell
+  $ pip install -r requirements.txt
+  $ python stronghacker.py
+ ```
