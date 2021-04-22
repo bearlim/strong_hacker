@@ -1,3 +1,3 @@
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simples-icons@v3/icons/youtube.svg" />][youtube]
+# STRONG HACKER
 
-[youtube]: https://youtube.com
+`$ pip install -r requirements.txt`
