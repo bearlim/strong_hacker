@@ -4,13 +4,15 @@
 <img src="https://img.shields.io/badge/release-v0.1-informational">
 This tool was developed for educational purposes only.
 Don't use it to make bad things.
-##About
+<br>
+<h1>About</h1>
+
 The Strong Hacker, is a tool made to take easy the installation of hacking tools
 
 - v0.1 - Only download
 - Future Versions - Download, installation and automation
 -
-##Get started 
+<h2>Get started </h2>
 
 `$ pip install -r requirements.txt`
 `$ python stronghacker.py`
