@@ -20,3 +20,7 @@ The Strong Hacker, is a tool made to take easy the installation of hacking tools
   $ pip install -r requirements.txt
   $ python stronghacker.py
  ```
+ 
+ <h2>Print Screen</h2>
+ 
+ <img src="https://media.discordapp.net/attachments/804857529090703392/834762678445539379/strong.PNG">
