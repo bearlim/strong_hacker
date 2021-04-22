@@ -11,7 +11,8 @@ The Strong Hacker, is a tool made to take easy the installation of hacking tools
 
 - v0.1 - Only download
 - Future Versions - Download, installation and automation
--
+
+
 <h2>Get started </h2>
 
 ```shell
